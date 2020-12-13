@@ -1,1 +1,1 @@
-alert("This is ian alert! JS is running!");
+window.alert("This is ian alert! JS is running!");
